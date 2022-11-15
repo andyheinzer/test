@@ -9,6 +9,6 @@ mmmm
 999999
 ppppp
 ooooo
-6
+
 abc
 op
